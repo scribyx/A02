@@ -1,4 +1,4 @@
-This is for HW A02
+**This is for HW A02**
 
 # A02: Git + Github Workflow Tutorial
 
@@ -25,22 +25,22 @@ This is for HW A02
 10. **Push Updates**: Send your local commits to the remote repository using Push
     git push -u origin main
 
-**Glossary**
+## Glossary
 
-**Branch**: independent line of development which is isolated from the main codebase
-**Clone**: local copy of a remote repository downloaded onto your computer
-**Commit**: A saved snapshot of changes made to files in your repository
-**Fetch**: Downloads new updates from a remote repository without automatically merging them with local
-**GIT**: version control system used to track changes in source code
-**Github**: A cloud-based hosting platform for managing Git repositories
-**Merge**: process of combining changes from one branch into another
-**Merge Conflict**: issue that occurs when Git can't automatically combine two conflicting sets of changes
-**Push**: command used to upload local repository commits to a remote repository
-**Pull**: Downloads updates from a remote repository and immediately merges them into your local branch
-**Remote**: A common repository hosted on a server shared by collaborators
-**Repository**: digital folder that contains project files and the entire history of changes, tracked by Git
+1. **Branch**: independent line of development which is isolated from the main codebase
+2. **Clone**: local copy of a remote repository downloaded onto your computer
+3. **Commit**: A saved snapshot of changes made to files in your repository
+4. **Fetch**: Downloads new updates from a remote repository without automatically merging them with local
+5. **GIT**: version control system used to track changes in source code
+6. **Github**: A cloud-based hosting platform for managing Git repositories
+7. **Merge**: process of combining changes from one branch into another
+8. **Merge Conflict**: issue that occurs when Git can't automatically combine two conflicting sets of changes
+9. **Push**: command used to upload local repository commits to a remote repository
+10. **Pull**: Downloads updates from a remote repository and immediately merges them into your local branch
+11. **Remote**: A common repository hosted on a server shared by collaborators
+12. **Repository**: digital folder that contains project files and the entire history of changes, tracked by Git
 
-**References**
+## References
 Git Documentation: https://git-scm.com/docs
 GitHub Guides: https://docs.github.com
 Visual Studio Code Documentation: https://code.visualstudio.com/docs
